@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "D659A5A0-44E0-4E80-977E-A54B9AAB706D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 1438,
+    "x": 2880,
+    "y": -1296
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C63A4891-817D-4F0E-8BF2-A98A720098DD"
+    },
+    {
+      "class": "group",
+      "id": "D9E50B78-7BD2-496A-9677-2C4F5975369F"
+    },
+    {
+      "class": "group",
+      "id": "0C65E8D5-7C43-449A-AB3D-7386D29A82E1"
+    },
+    {
+      "class": "group",
+      "id": "F323701B-011E-437E-9F0D-A4D365672132"
+    },
+    {
+      "class": "group",
+      "id": "430D7ACA-85D3-4DD9-8F66-6D17C5A8AE0E"
+    },
+    {
+      "class": "group",
+      "id": "204FA597-1090-4D64-9A04-216DE0F950D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDB841C5-CBBD-4ED9-AE80-8D8FD293F9C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04DA4F2A-8EFC-41C2-87F4-6DB4B72BCCC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8491406B-05DC-4574-B6BA-C8CEF421BE4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63A61259-4C7F-4BBA-B607-7E3054C9C108"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6A1A3BE-6E5C-49DB-A094-BFC3524B4A5C"
+    },
+    {
+      "class": "text",
+      "id": "10B42B05-5B5B-452F-8A09-B0E3263056BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4DC509E-011B-4359-B291-F12E89CBF39A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB94C8BA-96CF-4935-93EC-D92E5363A1EE"
+    },
+    {
+      "class": "group",
+      "id": "084C4E93-3995-4E28-88CB-5F5650DDAAAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0861A3EB-5879-4D66-AA56-73753CE9DBB4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB1C0835-6883-4522-93CF-CAE69A9EFADD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E430666-E17A-474C-9E11-38E02ABB0489"
+    },
+    {
+      "class": "group",
+      "id": "EAE2EA99-CD2F-4D76-9ABB-C73431E286C5"
+    },
+    {
+      "class": "group",
+      "id": "869CB4E2-B841-420C-ABD5-DA8FE3C9DAF0"
+    },
+    {
+      "class": "group",
+      "id": "FFC7FFE0-8B12-4354-BDC1-5697DCB4D79D"
+    }
+  ],
+  "name": "Selenium-Configurator",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "MacBook Pro 17",
+    "offersLandscapeVariant": 0,
+    "width": 1438
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

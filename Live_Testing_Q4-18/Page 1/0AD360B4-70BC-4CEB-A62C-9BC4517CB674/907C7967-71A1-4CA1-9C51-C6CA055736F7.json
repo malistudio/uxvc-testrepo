@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "907C7967-71A1-4CA1-9C51-C6CA055736F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A85BF9B-AE6A-4638-9693-4F37E92E3A10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC0C34CE-D979-4DCA-9E38-C14DCE2D369A",
+    "height": 24,
+    "width": 25,
+    "x": 64,
+    "y": 162
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Expand-UI Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CDFFED3-D4A9-445A-99F0-D0D32FF041EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA4F0920-C141-4F77-9A15-B61A9BA0956A",
+  "verticalSpacing": 0
+}

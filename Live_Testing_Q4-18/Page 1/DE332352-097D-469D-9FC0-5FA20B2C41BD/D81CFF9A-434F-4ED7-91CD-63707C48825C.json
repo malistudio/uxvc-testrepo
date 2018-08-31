@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3333333333,
+            "green": 0.3333333333,
+            "red": 0.3333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ProximaNova-Semibold",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 325,
+        "location": 0
+      }
+    ],
+    "string": "        \"#57c1e8\",\n        \"#00a5fb\",\n        \"#0582ca\",\n        \"#006494\",\n        \"#003A70\", /*5*/\n        \"#01172F\",\n        \"#363946\",\n        \"#31081F\", \n        \"#6B2D5C\",\n        \"#A07178\", /*10*/ \n        \"#6F7D8C\",\n        \"#77A0A9\",\n        \"#F2E5D7\", \n        \"#BFBFBF\",\n        \"#96939B\", /*15*/\n        \"#BCD4DE\""
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "do_objectID": "D81CFF9A-434F-4ED7-91CD-63707C48825C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76F3D0C7-5593-4B39-A4E9-91335D9523B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B07B6277-396D-4EB1-8DEE-3E05FB96A0DA",
+    "height": 240,
+    "width": 118,
+    "x": 1235,
+    "y": 429
+  },
+  "glyphBounds": "{{25, 2}, {93, 235}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "\"#57c1e8\", \"#00a5fb\"",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C85C2E8-B9CA-426D-B9F8-E97A723563D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "951595E7-8372-4E1E-857F-84514464219E",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333,
+          "green": 0.3333333333,
+          "red": 0.3333333333
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "ProximaNova-Semibold",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

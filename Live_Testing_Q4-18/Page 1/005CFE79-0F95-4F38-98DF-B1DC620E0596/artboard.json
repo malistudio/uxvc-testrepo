@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "005CFE79-0F95-4F38-98DF-B1DC620E0596",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 1438,
+    "x": -196,
+    "y": 1061
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F393AC4F-C7AC-40F9-A8B0-EBA66F576A19"
+    },
+    {
+      "class": "group",
+      "id": "EA42E6A0-879D-4927-B127-35994F6905E2"
+    },
+    {
+      "class": "group",
+      "id": "3143D341-2B49-4A9B-AA3D-9282EE9E2085"
+    },
+    {
+      "class": "group",
+      "id": "EE806DD3-3270-41BD-AFFE-95386A7F4913"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D5F9CF7-22D4-4BB7-B078-7DAFAB8C8344"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "738FF659-140E-4EE4-B1FC-40270C214FF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCC8239C-4D3A-43EB-8366-B42B1FE18D7D"
+    },
+    {
+      "class": "text",
+      "id": "5EFD8E36-0C51-4605-8070-265FD666165A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABBCB973-3273-4FF4-9C57-56590F28DBAC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24BA55FB-0B78-4777-98A2-2472AC646F72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "666CFC60-E790-4C34-A376-E91D10A549E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF1E3C73-47AC-4AD1-8C8F-67E0FD2B52B0"
+    },
+    {
+      "class": "group",
+      "id": "36429E22-7D9D-49EE-A231-DAC5F7F1A1B8"
+    },
+    {
+      "class": "group",
+      "id": "B6EF39EB-4E86-4E38-B13E-E287E53ED96D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EE2675A-D9B8-4A53-BD2A-CB638B1C2FE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F070C004-B381-44C5-BB83-06E3ECC5580F"
+    },
+    {
+      "class": "text",
+      "id": "7276E67F-C27C-4350-9DDE-781CADCD22A9"
+    },
+    {
+      "class": "text",
+      "id": "D32CE1A8-C801-4DEA-8B5B-F2657EFB9B35"
+    },
+    {
+      "class": "text",
+      "id": "1C092009-513E-4AFD-AF93-0FF11D41881A"
+    },
+    {
+      "class": "group",
+      "id": "E18DFA84-2217-4A27-B610-C524EC4DA6F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0189EB4-7712-4916-BBE6-EDC2C3C28664"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C21DC66-AF64-4D9A-B582-5513D18A3E17"
+    },
+    {
+      "class": "text",
+      "id": "6A470B7E-9FD9-49BA-9538-D5442966B62F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85B508BB-9269-4878-911C-35246B84A103"
+    }
+  ],
+  "name": "Mobile-Virtual",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "MacBook Pro 17",
+    "offersLandscapeVariant": 0,
+    "width": 1438
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "425BD93B-74A5-4561-ABF5-B867AA94F396",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "479612F9-A550-499C-96F1-1EDE86B5C5A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D84970FE-B0FB-4BBE-9526-DE7A74919C09",
+    "height": 138,
+    "width": 25,
+    "x": 1413,
+    "y": 162
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/UI-Resize/Right",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A897AF0-98D5-43BC-9F37-A8873AE5C4E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "87574DAE-043C-4D7A-B7A6-B9D360852647",
+  "verticalSpacing": 0
+}

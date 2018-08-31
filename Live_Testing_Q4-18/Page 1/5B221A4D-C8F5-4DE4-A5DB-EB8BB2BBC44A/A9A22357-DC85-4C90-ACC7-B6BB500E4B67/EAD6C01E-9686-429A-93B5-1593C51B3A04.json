@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "EAD6C01E-9686-429A-93B5-1593C51B3A04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C49EE07A-F5F6-4346-958B-9C7D22309DD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E1E675A-5ED2-4C99-9A20-7F2356F72BCF",
+    "height": 38,
+    "width": 58,
+    "x": 267,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small/:Active Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "162AA02D-265C-4A04-B102-5041F06CFFC9_stringValue",
+      "value": "ruby"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BADB35F-1672-4C26-9878-9A2FAABE4EA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "108F964B-EF4F-4E23-B1D2-9C2EEC65F4C2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2198315D-8D58-41FB-8CF9-07F2FE8E198E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4D877E0-BECA-48AA-98CA-7B5BACAEF02F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B281BB8D-739B-413A-932E-F4A617873217",
+    "height": 38,
+    "width": 170,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/:Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0D6ABC3-A75D-4ED7-A19B-19DE523280BB",
+      "overrideName": "DEF9A1A6-BCB9-4DAC-AF87-990794F30181_stringValue",
+      "value": "Web Browser"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32CAA53B-792C-42D0-A459-191ACE77FCED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B84706B0-6240-4009-9C6B-1D70DB450BF9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

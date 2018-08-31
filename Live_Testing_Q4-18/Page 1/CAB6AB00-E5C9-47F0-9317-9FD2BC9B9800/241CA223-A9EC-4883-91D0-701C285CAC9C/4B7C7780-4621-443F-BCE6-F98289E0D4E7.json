@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "4B7C7780-4621-443F-BCE6-F98289E0D4E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "078F80CF-E5DC-4C46-A1CB-0EED9D486023",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2ADE00C6-A656-4819-A3A6-5210A472BA5D",
+    "height": 898.75,
+    "width": 1438,
+    "x": -75,
+    "y": -222
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/51ab2f11c127ed10b0c22f15ac836bfd9c8e36a8.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fullscreen_live-testing_desktop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8E2147F-62F4-4EFB-9C8F-F9E882946B7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

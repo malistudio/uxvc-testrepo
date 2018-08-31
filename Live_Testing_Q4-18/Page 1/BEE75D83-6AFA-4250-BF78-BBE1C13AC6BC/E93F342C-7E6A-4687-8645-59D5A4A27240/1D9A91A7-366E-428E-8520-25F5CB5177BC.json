@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1D9A91A7-366E-428E-8520-25F5CB5177BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CE7CCF7-C6D1-4C6E-89F2-0AEE0A5BAC81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A0BD18A-A07B-4BC2-A030-91DA9CFE947D",
+    "height": 38,
+    "width": 170,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/:Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0D6ABC3-A75D-4ED7-A19B-19DE523280BB",
+      "overrideName": "DEF9A1A6-BCB9-4DAC-AF87-990794F30181_stringValue",
+      "value": "Real Devices"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0339C51C-1A91-4494-9447-1AE42BBC2BD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B84706B0-6240-4009-9C6B-1D70DB450BF9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

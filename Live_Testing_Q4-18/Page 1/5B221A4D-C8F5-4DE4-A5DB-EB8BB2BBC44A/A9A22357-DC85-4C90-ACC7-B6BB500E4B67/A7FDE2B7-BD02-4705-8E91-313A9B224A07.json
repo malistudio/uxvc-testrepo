@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A7FDE2B7-BD02-4705-8E91-313A9B224A07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "340A13F2-7656-44B3-BC22-9271A6065836",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA1600B0-1C3C-4351-8F8F-371F1534F2F8",
+    "height": 38,
+    "width": 78,
+    "x": 189,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small/:Active Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "162AA02D-265C-4A04-B102-5041F06CFFC9_stringValue",
+      "value": "python"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47CE0837-828C-443F-822E-3801CE1D4314",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "108F964B-EF4F-4E23-B1D2-9C2EEC65F4C2",
+  "verticalSpacing": 0
+}

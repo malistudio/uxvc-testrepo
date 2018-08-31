@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "5B221A4D-C8F5-4DE4-A5DB-EB8BB2BBC44A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 1438,
+    "x": -196,
+    "y": -1237
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "9276BD67-80A0-4874-AF4B-E0788AD3B3DA"
+    },
+    {
+      "class": "group",
+      "id": "7A80CE01-1B7F-4A2D-9644-E4D89281B625"
+    },
+    {
+      "class": "group",
+      "id": "5EB00546-A065-4ACA-B8A6-DF3FD040CFCE"
+    },
+    {
+      "class": "group",
+      "id": "0E1EDA1A-1823-4A8E-9B5C-E19873525071"
+    },
+    {
+      "class": "group",
+      "id": "48F5EB52-F06B-4D83-B0E9-C5D15478990D"
+    },
+    {
+      "class": "group",
+      "id": "0F969267-280A-4D72-84C1-15358B1C1C78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DC5B1C2-5AF7-4C70-9E0E-1FBA023E50B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1327F15-B301-4DC4-B67D-80048399F77F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A7518E3-4615-4DAE-87DA-4454E3B7C79F"
+    },
+    {
+      "class": "text",
+      "id": "A52DBB8C-1E24-4FF9-A041-D9B5A443A024"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0333C6BD-AF86-426A-9372-9A3A7725FE45"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFC9CACC-F3E6-48B3-A750-EC1B5912E45B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "045A9694-F8F6-4008-AAF0-7E53DD59F63A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3517826-CF64-46C7-BCFC-A88497D7D418"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91AE5CC5-53F0-4175-A6F7-A2E3A4148EFA"
+    },
+    {
+      "class": "text",
+      "id": "86F6145D-E2BD-41C8-B7F7-CC822C7B184D"
+    },
+    {
+      "class": "group",
+      "id": "EA953D93-81E2-4943-B5BC-73B0E4CEFB10"
+    },
+    {
+      "class": "group",
+      "id": "A3A93C1C-B0EC-4E42-8C31-A75D1C4925C3"
+    },
+    {
+      "class": "group",
+      "id": "955205BF-452A-418A-BC22-47F030F82EB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "698AA158-DE21-4E4D-9319-CFB45801CB47"
+    },
+    {
+      "class": "group",
+      "id": "43DA1E8A-B253-44AA-BAAC-D826832E0597"
+    },
+    {
+      "class": "group",
+      "id": "3ACDCD86-27EC-4563-B778-C6FE71F61B07"
+    },
+    {
+      "class": "group",
+      "id": "A9A22357-DC85-4C90-ACC7-B6BB500E4B67"
+    },
+    {
+      "class": "text",
+      "id": "0FF1EB85-BB3B-44DB-8E2B-6A1127205E6F"
+    }
+  ],
+  "name": "Appium-Configurator",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "MacBook Pro 17",
+    "offersLandscapeVariant": 0,
+    "width": 1438
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

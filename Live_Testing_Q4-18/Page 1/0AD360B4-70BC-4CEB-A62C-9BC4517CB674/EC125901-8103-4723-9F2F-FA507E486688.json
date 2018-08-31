@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "EC125901-8103-4723-9F2F-FA507E486688",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46582597-32FD-4766-AC02-FFBFD380181A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFCC54D1-9BB0-470D-9210-E3709513195B",
+    "height": 68,
+    "width": 485,
+    "x": 929,
+    "y": 244
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7158ECAE-8DC4-4BA3-B6D6-1061AC075CDD",
+      "overrideName": "2EB6B458-5415-4E53-937E-5E31D4B87028_stringValue",
+      "value": "Sauce Connect Proxy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B6B6CE2-DEFF-42E3-900B-27FED8FC5543",
+      "overrideName": "8319B873-580A-41A1-8DC6-F22DF78009E4_stringValue",
+      "value": "No Active Tunnels"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B87E2E8F-436F-4F45-8352-B6DC3D5C2BD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E4403F2E-FCF4-428B-BA8D-D08AD1DB273C",
+  "verticalSpacing": 0
+}

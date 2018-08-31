@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "FE87EFB4-1441-4354-8933-F22A91048658",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97F69A0C-8988-4CB6-8DF7-8AF72FBE6999",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFC98055-232F-4EA4-AD41-C282D8BEF712",
+    "height": 39,
+    "width": 1315,
+    "x": 96,
+    "y": 367
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CEE1FE09-18AB-4564-BC57-76E071105128"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C2A3CEC-B6A1-46B2-AA9C-E289DE255271"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "483701D2-6E36-4CDA-A95A-3D9870231A9E"
+    }
+  ],
+  "name": "Inner Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "524AC711-4BC4-45D7-B1BD-E78124A4D087",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

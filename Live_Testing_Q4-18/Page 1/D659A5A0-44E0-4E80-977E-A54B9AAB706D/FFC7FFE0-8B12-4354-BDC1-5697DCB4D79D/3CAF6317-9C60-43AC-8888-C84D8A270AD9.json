@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3CAF6317-9C60-43AC-8888-C84D8A270AD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0DE5873-F0CF-4EBA-B23A-57C0CB34CCFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B3FB066-CB31-4C27-95CD-DC27737C211F",
+    "height": 38,
+    "width": 53,
+    "x": 58,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small/:Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "162AA02D-265C-4A04-B102-5041F06CFFC9_stringValue",
+      "value": "php"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9214A2D6-28EC-4061-9C43-CB231F3345ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "108F964B-EF4F-4E23-B1D2-9C2EEC65F4C2",
+  "verticalSpacing": 0
+}

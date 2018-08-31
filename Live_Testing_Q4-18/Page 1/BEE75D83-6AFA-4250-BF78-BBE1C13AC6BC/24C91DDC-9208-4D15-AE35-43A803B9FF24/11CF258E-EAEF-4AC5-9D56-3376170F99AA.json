@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "11CF258E-EAEF-4AC5-9D56-3376170F99AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4301934B-6CEC-4361-B9BD-7B6483114106",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A74F46D5-63B5-495C-80B7-F5728FDB2761",
+    "height": 898.75,
+    "width": 1438,
+    "x": -75,
+    "y": -414
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4eae104a9dacb9e8d8b4cf81abb21ed5c34c5f91.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fullscreen_Appssss",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C45A9A4F-BACD-4217-BAC6-6479196645DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

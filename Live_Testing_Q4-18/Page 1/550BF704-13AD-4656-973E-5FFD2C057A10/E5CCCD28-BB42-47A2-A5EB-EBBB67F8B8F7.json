@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ProximaNova-Regular",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1104,
+        "location": 0
+      }
+    ],
+    "string": "$white-0: #000;\n$white-100: #fff;\n$white-98: lighten($white-0, 98%);   // #fafafa\n$white-96: lighten($white-0, 96%);   // #f5f5f5\n$white-95: lighten($white-0, 95%);   // #f2f2f2\n$white-93: lighten($white-0, 93.5%); // #eee\n$white-90: lighten($white-0, 90%);   // #e6e6e6\n$white-85: lighten($white-0, 85%);   // #d9d9d9\n$white-80: lighten($white-0, 80%);   // #ccc\n$white-75: lighten($white-0, 75%);   // #bfbfbf\n$white-70: lighten($white-0, 70%);   // #b2b2b2\n$white-66: lighten($white-0, 66.7%); // #aaa\n$white-60: lighten($white-0, 60%);   // #999\n$white-57: lighten($white-0, 57%);   // #919191\n$white-50: lighten($white-0, 50%);   // #808080\n$white-46: lighten($white-0, 46.7%); // #777\n$white-40: lighten($white-0, 40%);   // #666\n$white-39: lighten($white-0, 39.3%); // #646464\n$white-33: lighten($white-0, 33.5%); // #555\n$white-26: lighten($white-0, 26.7%); // #444\n$white-22: lighten($white-0, 22.3%); // #393939\n$white-20: lighten($white-0, 20%);   // #333\n$white-18: lighten($white-0, 18%);   // #2e2e2e\n$white-13: lighten($white-0, 13.5%); // #222\n$white-6: lighten($white-0, 6.5%);   // #111"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "E5CCCD28-BB42-47A2-A5EB-EBBB67F8B8F7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39AC7AC1-CE5C-4D32-9BD4-99A01368720E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D05CA11-1912-4235-8155-BDF111BB799A",
+    "height": 467,
+    "width": 353,
+    "x": 1033,
+    "y": 153
+  },
+  "glyphBounds": "{{0, 3}, {291, 422}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "$white-0: #000; $whi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6130CC5-3A91-4D90-B8E8-FC20EF67223A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "E6DA58AE-44EF-4492-9ACB-9D79F3E23CFF",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "ProximaNova-Regular",
+            "size": 14
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

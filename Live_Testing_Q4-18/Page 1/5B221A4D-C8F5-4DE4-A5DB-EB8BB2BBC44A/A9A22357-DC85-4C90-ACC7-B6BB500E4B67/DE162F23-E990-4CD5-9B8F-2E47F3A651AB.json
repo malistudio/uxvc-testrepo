@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DE162F23-E990-4CD5-9B8F-2E47F3A651AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB56B6B9-73EC-46FD-8B0B-418F6BCAC7C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5443603-E46B-4C6F-8B9A-B2D4BDB88743",
+    "height": 38,
+    "width": 78,
+    "x": 111,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small/:Active Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "162AA02D-265C-4A04-B102-5041F06CFFC9_stringValue",
+      "value": "node.js"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE94416A-4924-4D64-93AD-E3A559F99DFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "108F964B-EF4F-4E23-B1D2-9C2EEC65F4C2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "85B508BB-9269-4878-911C-35246B84A103",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60ECF8AA-0AEB-47D3-8069-7249661BDC40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F6E2A85-C41B-4F75-9630-0E5BB1975645",
+    "height": 68,
+    "width": 388,
+    "x": 339,
+    "y": 629
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/dropdown Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38E557F0-0CC9-4E2D-9469-8E92BB5CD64C",
+      "overrideName": "2EB6B458-5415-4E53-937E-5E31D4B87028_stringValue",
+      "value": "OS VERSION"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACCBD40C-B4E4-456B-8AFF-805F39EFC108",
+      "overrideName": "8319B873-580A-41A1-8DC6-F22DF78009E4_stringValue",
+      "value": "Android 4.4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77D96E60-F526-47F8-8160-B77C38227251",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E4403F2E-FCF4-428B-BA8D-D08AD1DB273C",
+  "verticalSpacing": 0
+}

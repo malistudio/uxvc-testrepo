@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3C114F7E-3E7F-444F-864F-8AC8DBD02FB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAC4CBFF-C476-45A3-BA65-13383E9BBA8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DA019E5-320F-49C6-B811-5B7AD80E184D",
+    "height": 38,
+    "width": 155,
+    "x": 170,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/:Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85E10F36-7225-49AD-B8D2-37CCF7649627",
+      "overrideName": "DEF9A1A6-BCB9-4DAC-AF87-990794F30181_stringValue",
+      "value": "Mobile App"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6B202B8-C696-4785-93C8-4E3FFDBF8343",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B84706B0-6240-4009-9C6B-1D70DB450BF9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

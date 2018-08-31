@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "BEE75D83-6AFA-4250-BF78-BBE1C13AC6BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 1438,
+    "x": 4418,
+    "y": -79
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "40599461-70AC-4AC4-A573-04EF8CF5F3F0"
+    },
+    {
+      "class": "bitmap",
+      "id": "D07B3F9F-37F8-41AB-B849-65962E0CF598"
+    },
+    {
+      "class": "group",
+      "id": "24C91DDC-9208-4D15-AE35-43A803B9FF24"
+    },
+    {
+      "class": "group",
+      "id": "FF18039F-9E31-468F-8BBB-57CBFB8BD317"
+    },
+    {
+      "class": "group",
+      "id": "CDECF8A0-7D56-48B1-9EB9-B2C1003787C7"
+    },
+    {
+      "class": "group",
+      "id": "B6E599C4-A1E3-483B-B6E5-D4D97E820B27"
+    },
+    {
+      "class": "group",
+      "id": "E93F342C-7E6A-4687-8645-59D5A4A27240"
+    },
+    {
+      "class": "group",
+      "id": "5F3030A5-34B1-4BE7-84A2-12BEC4EA2DAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A08604D-194B-49B6-8B19-15A5EF1BA643"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CA30764-68CF-4239-A51F-4CE1E0DCE30C"
+    },
+    {
+      "class": "text",
+      "id": "E2B25F2C-7686-48D8-9E86-47F229ABC7EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA019534-2090-427D-ADF8-5BD6B68459F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4DFB40B5-B2C7-4D4C-8D79-E8C681567EEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E41F7405-B716-442F-9401-9F5EC17228CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E12208C-F233-4EAC-9B03-9CC068C34DB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E233180-FBDE-4368-9F00-CCA2B5A207B1"
+    },
+    {
+      "class": "text",
+      "id": "00559897-0AF6-40F4-8E27-F727430FCF00"
+    },
+    {
+      "class": "group",
+      "id": "13E7584C-733C-44A8-BD5A-95848A593B3D"
+    }
+  ],
+  "name": "App-Real",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "MacBook Pro 17",
+    "offersLandscapeVariant": 0,
+    "width": 1438
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      1519
+    ]
+  }
+}

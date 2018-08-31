@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "43DA1E8A-B253-44AA-BAAC-D826832E0597",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E084D52-19F3-4AD9-BBB4-B9FD9792017E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8895CAD9-43BE-4B14-9510-3842C1101CF6",
+    "height": 603,
+    "width": 991,
+    "x": 224,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "74F85720-F2BA-44F4-A55D-4AB0026FA599"
+    },
+    {
+      "class": "group",
+      "id": "0A0E45FC-4D76-4F29-8AB4-FB77E58BCA42"
+    },
+    {
+      "class": "text",
+      "id": "68D33A28-2662-4371-AE43-55F415D6DB0A"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7304F7E2-E376-4487-8287-FF9ABB0BE9F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "0AD360B4-70BC-4CEB-A62C-9BC4517CB674",
+      "transition": 0
+    }
+  }
+}

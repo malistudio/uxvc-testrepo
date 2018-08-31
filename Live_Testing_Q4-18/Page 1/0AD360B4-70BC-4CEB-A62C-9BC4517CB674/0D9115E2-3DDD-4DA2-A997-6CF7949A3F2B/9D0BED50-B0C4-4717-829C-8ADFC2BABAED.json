@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9D0BED50-B0C4-4717-829C-8ADFC2BABAED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D60B9AEA-A8DC-4B33-9D51-00169B0B3CCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C71151B1-0B9F-4E2E-8746-4B7E5851C12B",
+    "height": 40,
+    "width": 166,
+    "x": 338,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Button/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "15FEFFD5-B866-463C-8AC6-2C6AB3BBF307_stringValue",
+      "value": "START SESSION"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CDEC181-6CFD-4D90-8076-8C5CC8DA493B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8FC9A60-AC59-4A27-AA73-54E5B457A20A",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}
